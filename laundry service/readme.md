@@ -1,9 +1,10 @@
-#Laundry Service
+# Laundry Service
 
-##Requirement 24/4/2020
-
+## Requirement 24/4/2020
+    สรุป requirement ของซักอบรีบ
 ```
-1. The service has 6 type of products.
-2. The parcel of clothing seperate for type of product.
-3. 
+1. ประเภทของเสื้อผ้าจะมี 6 ประเภท
+2. ถุงของเสื้อผ้าต้องแยกถุงตามประเภทของสินค้า แต่ 1 ถุงจะใส่ได้ 15 ชิ้น
+3. ทาง all-now ระบบ pss ต้องกลับไปปรับปรุงระบบเพื่อให้รองรับ
+4. การ Run ถุงเป็นของ Supplier จะมีปัญหาเรื่องของการ Fixed route เพราะต้องมีการทำ route optimize
 ```
